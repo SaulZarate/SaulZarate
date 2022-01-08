@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
-<h2> Hola, soy Saúl!</h2>
+<h2>👋 &nbsp;Hola, soy Saúl!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
 
@@ -45,7 +45,8 @@
 ### ⚙️ &nbsp;Analíticas de GitHub
 
 <a href="https://github.com/SaulZarate">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaulZarate&theme=dark&show_icons=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaulZarate&theme=dark&show_icons=true" /> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaulZarate&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulZarate&theme=dark&layout=compact" />
 </a>
 
