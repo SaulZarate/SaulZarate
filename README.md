@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
-<h2> Hola soy Saúl, bienvenido a mi repositorio!</h2>
+<h2> Hola, soy Saúl!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
 
