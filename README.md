@@ -7,8 +7,8 @@
 - 🤔 &nbsp; Explorando nuevas tecnologías y realizando proyectos a modo de practica.
 - 🎓 &nbsp; Me encuentro estudiando en la carrera de Analista de Sistemas (3° año).
 - 💼 &nbsp; Soy músico becado en la orquesta de Aerolineas Argentinas.
-- 🌱 &nbsp; Estyo aprendiendo un nuevo Stack tecnologico (Javascript).
-- ✍️ &nbsp; En mi tiempo libre, hago ejercicio, leo, paso tiempo con mi perrito y cada tanto veo series.
+- 🌱 &nbsp; Estoy aprendiendo un nuevo Stack tecnologico (Javascript).
+- ✍️ &nbsp; Hobbies: Deporte, lectura, Música, Series.
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
   
@@ -36,10 +36,10 @@
   <!-- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-333333?style=flat&logo=windowsterminal)
+  ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-333333?style=flat&logo=windowsterminal&logoColor=black)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  <!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  <!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop&logoColor=white)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign) -->
 
 ### ⚙️ &nbsp;Analíticas de GitHub
@@ -50,15 +50,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulZarate&theme=dark&layout=compact" />
 </a>
 
-<br/>
 
 <h3> 🤝🏻 &nbsp;Contáctame</h3>
 
 <p>
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.saulZarate.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-saul--zarate--desarrollador-blue?style=flat-square&logo=linkedin"></a>
-<a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saulZarate-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:saul_zarate.m@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saul__zarate.m@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.saulZarate.com-blue?style=flat&logo=google-chrome&logoColor=white"></a>
+<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-saul--zarate--desarrollador-blue?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saulZarate-blue?style=flat&logo=instagram&logoColor=white"></a>
+<a href="mailto:saul_zarate.m@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saul__zarate.m@hotmail.com-blue?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 <!--
